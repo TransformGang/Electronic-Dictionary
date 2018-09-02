@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "电子词典", "电子词典\电子词典.vcxproj", "{7C063C99-5961-48E4-92ED-5E2EA4305A70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C063C99-5961-48E4-92ED-5E2EA4305A70}.Debug|x64.ActiveCfg = Debug|x64
+		{7C063C99-5961-48E4-92ED-5E2EA4305A70}.Debug|x64.Build.0 = Debug|x64
+		{7C063C99-5961-48E4-92ED-5E2EA4305A70}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C063C99-5961-48E4-92ED-5E2EA4305A70}.Debug|x86.Build.0 = Debug|Win32
+		{7C063C99-5961-48E4-92ED-5E2EA4305A70}.Release|x64.ActiveCfg = Release|x64
+		{7C063C99-5961-48E4-92ED-5E2EA4305A70}.Release|x64.Build.0 = Release|x64
+		{7C063C99-5961-48E4-92ED-5E2EA4305A70}.Release|x86.ActiveCfg = Release|Win32
+		{7C063C99-5961-48E4-92ED-5E2EA4305A70}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68F04390-62B2-4994-B652-69DD4C3D5716}
+	EndGlobalSection
+EndGlobal
